@@ -13,3 +13,5 @@ pillow
 opencv-python-headless
 transformers
 torch
+passlib bcrypt 
+python-dotenv
