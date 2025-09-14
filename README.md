@@ -1,25 +1,25 @@
 # 🌊 Ocean Hazard Reporting System
 
-An AI-powered citizen reporting and hazard alert platform for coastal safety.  
+An **AI-powered citizen reporting and hazard alert platform** for coastal safety.  
 Built for **SIH 2025 Internal Hackathon** 🚀 by **Team Catalyst**  
 
 ---
 
 ## 🔑 Features
-- 📢 **Citizen Reports**: Submit hazards like floods, cyclones, oil spills  
-- 🤖 **AI Verification**: Classifies reports as real or misinformation  
-- 🗺️ **Interactive Map Dashboard**: Live hazard hotspots, heatmaps, clustering  
-- 📊 **Analytics Dashboard**: Hazard trends, AI confidence, severity stats  
-- 🚨 **Alert System**: Multi-channel notifications (SMS, Email, Push, Webhook)  
+- 📢 **Citizen Reports** – Submit hazards such as floods, cyclones, and oil spills  
+- 🤖 **AI Verification** – Filters misinformation using NLP models  
+- 🗺️ **Interactive Map Dashboard** – Displays live hazard hotspots with clustering & heatmaps  
+- 📊 **Analytics Dashboard** – Visualizes hazard trends, AI confidence, and severity statistics  
+- 🚨 **Alert System** – Sends notifications via SMS, Email, Push, and Webhooks  
 
 ---
 
 ## ⚙️ Tech Stack
-- **Frontend**: Streamlit + Plotly  
-- **Mapping**: Folium + Leaflet plugins  
-- **AI Model**: Transformers (HuggingFace)  
-- **Backend**: Python  
-- **Alerts**: Email, SMS, Push (demo mode)  
+- **Frontend:** Streamlit + Plotly  
+- **Mapping:** Folium + Leaflet plugins  
+- **AI Model:** HuggingFace Transformers  
+- **Backend:** Python  
+- **Alerts:** Email, SMS, Push (demo mode)  
 
 ---
 
@@ -27,7 +27,7 @@ Built for **SIH 2025 Internal Hackathon** 🚀 by **Team Catalyst**
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/ocean-hazard-reporting.git
+git clone https://github.com/Shaikirfan007/ocean-hazard-reporting.git
 cd ocean-hazard-reporting
 
 # Install dependencies
@@ -54,3 +54,20 @@ streamlit run app.py
 
 ### 🚨 Alerts
 ![Alerts Demo](assets/alerts.png)
+
+## 🔮 Future Scope
+- Integration with real-time social media feeds (Twitter, Instagram, etc.)
+
+- 📷 Support for image-based hazard detection using computer vision
+
+- 📱 Mobile app version with offline submission capability
+
+- 🛰️ Real-time weather, tide, and satellite data integration
+
+- 🌏 Multi-language support for wider citizen adoption
+
+
+
+## 🤝 Contributors
+
+👨‍💻 Built with ❤️ by Team Catalyst
