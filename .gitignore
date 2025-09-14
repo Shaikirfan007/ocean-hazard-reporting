@@ -1,0 +1,12 @@
+echo "__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+*.env
+alert_config.json
+reports.json
+alert_history.json
+.DS_Store
+Thumbs.db" > .gitignore

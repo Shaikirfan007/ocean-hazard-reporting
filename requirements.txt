@@ -1,0 +1,15 @@
+# minimal + hackathon ready stack
+streamlit
+pandas
+folium
+streamlit-folium
+plotly
+requests
+sqlalchemy
+uvicorn
+fastapi
+python-multipart
+pillow
+opencv-python-headless
+transformers
+torch
